@@ -20,6 +20,10 @@ This Flutter app changes the color of backgroung when you click on the "Change M
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="164"/>
+     <img src="https://media.giphy.com/media/RGeMOWL9C8Clw2eUSm/giphy.gif"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="164"/>
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
